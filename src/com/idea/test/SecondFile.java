@@ -6,5 +6,6 @@ package com.idea.test;
 public class SecondFile {
     public static void main(String[] args){
         System.out.println("这是第一个测试文件");
+        System.out.println("hadadad");
     }
 }
