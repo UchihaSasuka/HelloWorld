@@ -33,6 +33,7 @@ public enum EnumTest {
 
     private String name ;
     private int index ;
+    private int aaa;
 
     private EnumTest( String name , int index ){
         this.name = name ;
