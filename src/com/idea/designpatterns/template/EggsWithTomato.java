@@ -14,5 +14,8 @@ public class EggsWithTomato extends DodishTemplate{
     @Override
     public void carriedDishes() {
         System.out.println("将炒好的西红柿鸡蛋装入碟子里，端给客人吃。");
+        System.out.println("新增第一行信息");
+        System.out.println("新增第二行信息");
+        System.out.println("新增第三行信息");
     }
 }
