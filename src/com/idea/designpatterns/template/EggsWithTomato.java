@@ -17,5 +17,6 @@ public class EggsWithTomato extends DodishTemplate{
         System.out.println("新增第一行信息");
         System.out.println("新增第二行信息");
         System.out.println("新增第三行信息");
+        System.out.println("新增第四行信息");
     }
 }
